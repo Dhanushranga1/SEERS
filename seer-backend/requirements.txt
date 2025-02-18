@@ -1,0 +1,24 @@
+# Core FastAPI & Web Server
+fastapi
+uvicorn
+
+# Database (PostgreSQL & ORM)
+psycopg2
+sqlalchemy
+
+# Security (JWT & Password Hashing)
+pyjwt
+bcrypt
+
+# AI/ML Libraries for Risk Scoring
+numpy
+pandas
+scikit-learn
+tensorflow  # Remove if not using deep learning models
+
+# Threat Intelligence & IP Tracking
+requests
+geoip2
+
+# Environment Variables
+python-dotenv
