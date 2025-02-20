@@ -1,5 +1,6 @@
 # SEER: Secure & Efficient Entity Recognition System
 
+
 SEER (**Secure & Efficient Entity Recognition System**) is an AI-powered cybersecurity platform designed to provide **real-time threat detection, access control management, and AI-powered insights** for security professionals. Initially built as a **hobby project**, SEER has evolved into a **feature-rich, next-gen cybersecurity dashboard** that leverages AI-driven analytics and real-time monitoring to enhance digital security.
 
 ## 🌟 **Why I Built SEER?**
